@@ -1,0 +1,67 @@
+DOWNTIME_ID,PRODUCTION_ID,REASON,MINUTES
+1,1,"Mechanical Failure",25
+2,1,"Material Shortage",10
+3,1,"Operator Delay",5
+4,2,"Mechanical Failure",15
+5,2,"Material Shortage",20
+6,2,"Operator Delay",25
+7,3,"Mechanical Failure",16
+8,3,"Material Shortage",14
+9,4,"Material Shortage",25
+10,4,"Operator Delay",16
+11,5,"Operator Delay",34
+12,5,Changeover,18
+13,6,Changeover,26
+14,6,"Mechanical Failure",11
+15,7,"Mechanical Failure",29
+16,7,"Material Shortage",19
+17,8,"Material Shortage",35
+18,8,"Operator Delay",24
+19,9,"Operator Delay",31
+20,9,Changeover,13
+21,10,Changeover,33
+22,10,"Mechanical Failure",22
+23,11,"Mechanical Failure",40
+24,11,"Material Shortage",26
+25,12,"Material Shortage",26
+26,12,"Operator Delay",25
+27,13,"Operator Delay",40
+28,13,Changeover,22
+29,14,Changeover,18
+30,14,"Mechanical Failure",15
+31,15,"Mechanical Failure",32
+32,15,"Material Shortage",26
+33,16,"Material Shortage",22
+34,16,"Operator Delay",17
+35,17,"Operator Delay",30
+36,17,Changeover,20
+37,18,Changeover,27
+38,18,"Mechanical Failure",18
+39,19,"Mechanical Failure",34
+40,19,"Material Shortage",22
+41,20,"Material Shortage",17
+42,20,"Operator Delay",14
+43,21,"Operator Delay",36
+44,21,Changeover,24
+45,22,Changeover,30
+46,22,"Mechanical Failure",13
+47,23,"Mechanical Failure",32
+48,23,"Material Shortage",22
+49,24,"Material Shortage",21
+50,24,"Operator Delay",14
+51,25,"Operator Delay",28
+52,25,Changeover,19
+53,26,Changeover,35
+54,26,"Mechanical Failure",23
+55,27,"Mechanical Failure",23
+56,27,"Material Shortage",19
+57,28,"Material Shortage",37
+58,28,"Operator Delay",16
+59,29,"Operator Delay",41
+60,29,Changeover,23
+61,30,Changeover,32
+62,30,"Mechanical Failure",25
+63,31,"Mechanical Failure",18
+64,31,"Material Shortage",14
+65,32,"Material Shortage",26
+66,32,"Operator Delay",17
